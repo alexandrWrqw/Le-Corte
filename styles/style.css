@@ -654,12 +654,6 @@ h6{
     }
 }
 
-@media(max-width: 425px){
-    .main-block__body{
-        height: 100dvh;
-    }
-}
-
 @media(max-width: 410px){
     .main-block__button{
         flex: 1 1 100%;
